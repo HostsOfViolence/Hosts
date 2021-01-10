@@ -1,7 +1,7 @@
 # Gab.com
 
 ## AS
-Gab.com has their own AS number AS42651 Gab Ai Inc which can be seen at https://bgp.he.net/AS42651.
+Gab.com has their own AS number AS42651 Gab Ai Inc which can be seen at https://bgp.he.net/AS42651 and at https://www.peeringdb.com/net/20816.
 Hurricane Electric LLC is their only peer.
 
 The acceptable use policy of Hurricane Electric LLC located at https://he.net/aup.html clearly states:
@@ -18,7 +18,8 @@ The abuse email of Hurricane Electric is abuse@he.net or via phone +1 510-580-41
 Gab.com owns 45.88.203.0/24, which is the range 45.88.203.1 - 45.88.203.254.
 
 ## DNS Records
-Gab.com uses Cloudflare for DDoS protection services.
+Gab.com uses Cloudflare for DDoS protection services. The abuse form of Cloudflare can be found at https://www.cloudflare.com/abuse/form.
+
 Gab.com uses Protonmail for email services.
 
 Domain name | IP address | Record Type | Provider | Country
